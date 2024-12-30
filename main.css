@@ -5,7 +5,7 @@
 }
 
 .header{
-    background-image:url(../images/subcontainer.png);
+    background-image:url(img/subcontainer.png);
     width: 100%;
     height: 100vh;
     background-repeat: no-repeat;
@@ -454,7 +454,7 @@ body{
 }
 
 .footer-sc1{
-    background-image: url(../images/Background-Images.png);
+    background-image: url(img/Background-Images.png);
     width: 4000px;
     height: 400px;
     display: flex;
